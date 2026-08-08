@@ -12,4 +12,6 @@ The repository includes:
 
 The materials are provided to facilitate reproducibility and further research on channel–flat partitioning in macrotidal muddy basins.
 
+The study area is located along the Zhejiang–Fujian coast of the East China Sea and comprises nine semi-enclosed tidal basins:
+
 <img width="781" height="781" alt="image" src="https://github.com/user-attachments/assets/75e9ac2d-d76d-49fc-8bd2-1a69af57a78f" />
